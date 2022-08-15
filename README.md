@@ -5,3 +5,4 @@
 - [Snorkel: rapid training data creation with weak supervision](https://link.springer.com/article/10.1007/s00778-019-00552-1)
 - [Bamman NLP Annotation Project](https://people.ischool.berkeley.edu/~dbamman/nlpap.html)
 - [PhysioNet - collection of physiological and clinical data and related open-source software](https://physionet.org/)
+- [FDA list of AI/ML-enabled medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
