@@ -6,3 +6,4 @@
 - [Bamman NLP Annotation Project](https://people.ischool.berkeley.edu/~dbamman/nlpap.html)
 - [PhysioNet - collection of physiological and clinical data and related open-source software](https://physionet.org/)
 - [FDA list of AI/ML-enabled medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
+- [VA AI Inventory](https://www.research.va.gov/naii/ai-inventory.cfm)
