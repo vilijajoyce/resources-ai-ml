@@ -8,3 +8,4 @@
 - [FDA list of AI/ML-enabled medical devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 - [VA AI Inventory](https://www.research.va.gov/naii/ai-inventory.cfm)
 - [Model & Dataset Disclosure for Healthcare and Public Health (MDSD4Health)](https://www.mdsd4health.com/home)
+- [Big Data and AI Strategies - JP Morgan](https://cpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/2/51/files/2018/05/JPM-2017-MachineLearningInvestments.pdf)
