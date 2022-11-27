@@ -12,3 +12,6 @@
 - [Machine Learning Explainability Workshop - Lakkaraju](https://m.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL)
 - [Deep learning for coders part 1](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
 - [Deep learning for coders part 2](https://youtu.be/_7rMfsA24Ls)
+
+# AI/ML courses
+- [Machine Learning A-Z™: Python & R in Data Science [2022]](https://www.udemy.com/course/machinelearning/)
