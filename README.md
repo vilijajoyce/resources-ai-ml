@@ -17,3 +17,4 @@
 # AI/ML courses
 - [Machine Learning A-Z™: Python & R in Data Science [2022]](https://www.udemy.com/course/machinelearning/)
 - [Zitnik - Biomedical AI](https://zitniklab.hms.harvard.edu/BMI702/)
+- [Harvard - Explaining AI](https://interpretable-ml-class.github.io/)
